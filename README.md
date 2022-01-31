@@ -1,10 +1,3 @@
-# 1 semester 2 course - Lab 1
-<a href="https://frontend-project-d7859.web.app/" target="_blank">Working version</a>
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `yarn start`
 
 Runs the app in the development mode.\
